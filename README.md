@@ -4,6 +4,6 @@ This is the A Team's project. Whoop!
 Website designed from base template
 
 * Bobby Mullins
-* Jeremy Collake
+* Jeremy C
 * Alex Dixon
 * Skylar Reed
