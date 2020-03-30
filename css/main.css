@@ -598,7 +598,7 @@ body {
 }
 
 .side-nav {
-    position: relative;
+    float: left;
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
