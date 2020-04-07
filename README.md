@@ -2,7 +2,7 @@
 
 This is the A Team's project. Whoop!
 
-Website designed/derived from base template created by Bucky Maler https://github.com/BuckyMaler
+Website designed/derived from base HTML5 template.
 
 * Bobby Mullins
 * Jeremy C
