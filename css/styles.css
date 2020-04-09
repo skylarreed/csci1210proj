@@ -2457,13 +2457,13 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #f4623a;
-  border-color: #f4623a;
+  background-color: #DA1B1B;	/*Set color to lighter red*/
+  border-color: #DA1B1B;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #f24516;
-  border-color: #ee3e0d;
+  background-color: #FF3636;	/*Set hover color to lighter red*/
+  border-color: #FF3636;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
@@ -10048,7 +10048,7 @@ hr.light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/bg-masthead.jpg");
+  background: linear-gradient(to bottom, rgba(0,0,0, 1) 100%, rgba(0,0,0, 1) 100%), url("");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
