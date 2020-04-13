@@ -1,3 +1,10 @@
+		
+		/* 
+			Author:				A-Team(Alex, Bobby, Jeremy, Skylar)
+			Assignment:			Semester Project
+			Purpose:			Information page for EDGE of Bristol Gym website
+		*/	
+		
 @charset "UTF-8";
 /*!
 * Start Bootstrap - Creative v6.0.1 (https://startbootstrap.com/themes/creative)
@@ -6067,7 +6074,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #f4623a !important;
+  background-color: #000000 !important;	/*Background color set to black*/
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9748,7 +9755,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #f4623a !important;
+  color: #DA1B1B !important;	/*text-primary set to red color*/
 }
 
 a.text-primary:hover, a.text-primary:focus {
